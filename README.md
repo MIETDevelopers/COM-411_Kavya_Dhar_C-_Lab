@@ -1,4 +1,4 @@
-# COM-411_Kavya_Dhar_C-_Lab
+# COM-411_Kavya_Dhar_C++_Lab
 ![picture](https://github.com/MIETDevelopers/DS_Structure_Lab_112_Kavya_Dhar/blob/main/Welocme.gif)
 
 
